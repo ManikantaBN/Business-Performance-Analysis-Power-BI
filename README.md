@@ -4,18 +4,24 @@ This repository contains a Power BI project that analyzes business performance. 
 
 # Steps
 1.) Create a new (.pbix) file.
+
 2.) Connect to Dataset: Import your dataset into Power BI.
+
 3.) Data Preparation:
+
 * A) Remove unwanted columns.
 * B) Rearrange columns for better organization.
 * C) Correct date formats to DD/MM/YYYY.
+
 4.) Create Tables: Identify facts and dimensions and create separate tables for:
 * A) Orders
 * B) Product
 * C) Customer
 * D) Departments
 * E) Ensure each table has a unique key column.
+  
 5.) Load Data: Apply changes and load the transformed data into your Power BI file.
+
 6.) Data Modelling:
 
 # Visuals
